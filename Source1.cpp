@@ -21,3 +21,4 @@ void bouble_sort(int *arr, int size){
 		}
 }
 }
+Edited by suPProTuX
