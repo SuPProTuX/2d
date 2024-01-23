@@ -17,7 +17,7 @@ void bouble_sort(int *arr, int size){
 			}
 		}
 		if (!swapped) {
-			break
+			break;
 		}
 }
 }
