@@ -12,7 +12,7 @@ void bouble_sort(int *arr, int size){
 				buff = arr[k - 1];
 				arr[k - 1] = arr[k];
 				arr[k] = buff
-				swapped = true
+				swapped = true;
 
 			}
 		}
